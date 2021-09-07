@@ -13,7 +13,7 @@ export const greetings = {
 };
 
 export const openSource = {
-	githubUserName: "1hanzla100",
+	githubUserName: "shivamgupta10",
 };
 
 export const contact = {};
