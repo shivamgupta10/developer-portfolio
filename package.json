@@ -12,6 +12,7 @@
 		"bootstrap": "^5.0.2",
 		"classnames": "^2.3.1",
 		"colorthief": "^2.3.2",
+		"gh-pages": "^3.2.3",
 		"graphql": "^15.5.1",
 		"headroom.js": "^0.12.0",
 		"moment": "^2.29.1",
@@ -29,6 +30,8 @@
 		"reactstrap": "^8.9.0"
 	},
 	"scripts": {
+		"predeploy": "npm run build",
+		"deploy": "gh-pages -b master -d build",
 		"start": "gatsby develop",
 		"build": "react-scripts build",
 		"test": "react-scripts test",
@@ -45,6 +48,6 @@
 			"last 1 firefox version",
 			"last 1 safari version"
 		]
-	}
-	  "homepage": "https://sgupta10.github.io/developer-portfolio",
+	},
+	"homepage": "https://sgupta10.github.io"
 }
