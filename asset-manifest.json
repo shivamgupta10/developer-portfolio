@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3d5f991a.chunk.css",
+    "main.js": "/static/js/main.d39c503c.chunk.js",
+    "main.js.map": "/static/js/main.d39c503c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.259c7645.js",
+    "runtime-main.js.map": "/static/js/runtime-main.259c7645.js.map",
+    "static/js/2.5bde674a.chunk.js": "/static/js/2.5bde674a.chunk.js",
+    "static/js/2.5bde674a.chunk.js.map": "/static/js/2.5bde674a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.3d5f991a.chunk.css.map": "/static/css/main.3d5f991a.chunk.css.map",
+    "static/js/2.5bde674a.chunk.js.LICENSE.txt": "/static/js/2.5bde674a.chunk.js.LICENSE.txt",
+    "static/media/Navigation.css": "/static/media/Agustina.320d237b.otf",
+    "static/media/airbnbLogo.e8497507.png": "/static/media/airbnbLogo.e8497507.png",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/github.f7165d3e.svg": "/static/media/github.f7165d3e.svg",
+    "static/media/google.952443d7.svg": "/static/media/google.952443d7.svg",
+    "static/media/nucleo.css": "/static/media/nucleo-icons.d6a66724.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.259c7645.js",
+    "static/js/2.5bde674a.chunk.js",
+    "static/css/main.3d5f991a.chunk.css",
+    "static/js/main.d39c503c.chunk.js"
+  ]
+}
